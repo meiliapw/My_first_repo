@@ -21,7 +21,7 @@ body {
 }
 
 .header a {
-  float: right;
+  /* float: right; */
   color: #385019;
   text-align: center;
   padding: 14px 16px;
