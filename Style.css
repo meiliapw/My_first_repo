@@ -21,7 +21,6 @@ body {
 }
 
 .header a {
-  /* float: right; */
   color: #385019;
   text-align: center;
   padding: 14px 16px;
@@ -30,12 +29,8 @@ body {
   transition: 0.5s;
   display: inline;
   float: right;
-  
 }
-.navigationbar {
-  display: inline;
-  float: right;
-}
+
 
 .header a:hover {
     text-decoration: underline;
@@ -78,6 +73,11 @@ h2{
         align-items: center;
         justify-content: center;
         padding: 80px 0 80px 0;
+        background-color: #F4F1EA;
+        background-image:url("images/herobg.png");
+     background-repeat: no-repeat;
+     background-position: right;
+     background-size: initial;
   }
   .mockuptext {
     text-align: right;
